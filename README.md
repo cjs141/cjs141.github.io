@@ -67,4 +67,4 @@ class Projects extends Component {
 ```
 
 ## Status
-Project is: Closed, no further development is planned.
+Project is: Open, plan to update the projects view in the coming months
